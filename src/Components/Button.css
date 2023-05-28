@@ -1,0 +1,31 @@
+.button {
+  margin-top: 10px;
+  color: black;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: red;
+  color: black;
+}
+.green {
+  background-color: green;
+  color: black;
+}
+.pink {
+  background-color: pink;
+  color: black;
+}
+
+.ghost {
+  border: none;
+}
+
+.outline {
+  border: 5px solid black;
+}
